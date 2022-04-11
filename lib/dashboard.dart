@@ -84,7 +84,7 @@ class _HalamanDuaState extends State<HalamanDua> {
                 ),
                 ListTile(
                   leading: Container(
-                    height: 126,
+                    height: 125,
                     width: 125,
                     decoration: const BoxDecoration(
                         image: DecorationImage(
